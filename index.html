@@ -1,1 +1,293 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="description" content="Personal page of Loïc Pottier, PhD Student in Computer Science at ENS de Lyon">
+		<meta name="keywords" content="loïc,pottier,ens,lyon,lip,resilience,scheduling,coscheduling,algorithms,processor redistribution">
+		<meta name="author" content="Loïc Pottier">
+
+		<link href="index.css" rel="stylesheet" type="text/css" media="screen">
+		<link href="index.css" rel="stylesheet" type="text/css" media="handheld">
+		<link href="images/favicon.png" type="image/png" rel="icon">
+		<title>Loïc Pottier</title>
+	</head>
+
+	<body>
+		<header>
+			<div id="title">
+				<h1 id="name">Loïc Pottier</h1>
+				<h3 id="position">PhD Student in Computer Science</h3>
+			</div>
+
+			<div>
+				<img class="arrondi" src="images/me.jpg" alt="me">
+			</div>
+
+<!-- 
+			<div class="arrondi" style="background:url(/images/me.jpg) no-repeat 0px 0px;">
+    			&nbsp;
+			</div> -->
+
+			<div id="contact">
+				<p><strong>Mail: </strong> loic [dot] pottier [at] ens-lyon [dot] fr</p>
+				<!-- <p><strong>Mail : </strong> <img src="images/mail.png" alt="mail" width="220"> </p> -->
+
+				<!--<h3><em>Contact</em> :</h3>-->
+				<p> <strong>Address: </strong>
+					Laboratoire de l'Informatique <br/> du Parallélisme <br/>
+					École Normale Supérieure de Lyon <br/>
+					46, Allée d'Italie <br/>
+					69364 Lyon Cedex 07, France
+				</p>
+
+				<p><strong>Office: </strong> M7-207 (second floor)</p>
+				<p><strong>Tel: </strong> (+33) 4 26 23 38 75 </p>
+
+			</div>
+		</header>
+
+		<aside>
+<!--
+			<nav>
+				<ul>
+				  <li><a href="#home">Home</a></li>
+				  <li><a href="#publications">Publications</a></li>
+				  <li><a href="#teaching">Teaching</a></li>
+				  <li><a href="#misc">Miscellaneous</a></li>
+				</ul>
+			</nav>
+-->
+			<!-- <div id="logos">
+				<a href="http://www.ens-lyon.fr"><img src="images/ensl.png" alt="ENS" width="150"></a><br>
+				<a href="http://www.inria.fr"><img src="images/inria.jpg" alt="INRIA" width="150"></a><br>
+			</div> -->
+		</aside>
+
+
+		<section id="content">
+			<!-- <h2>About me</h2> -->
+			<article id="home">
+
+				<div id="logos">
+					<a href="http://www.ens-lyon.fr"><img src="images/ensl.png" alt="ENS" width="200"></a><br/>
+					<a href="http://www.inria.fr"><img src="images/inria.jpg" alt="INRIA" width="200"></a>
+				</div>
+
+				<p>
+					I'm a third year PhD student in Computer Science at <abbr title="École Normale Supérieure">ENS</abbr> Lyon, under the supervision of <a href="http://graal.ens-lyon.fr/~abenoit/">Anne Benoit</a>
+					and <a href="http://graal.ens-lyon.fr/~yrobert/">Yves Robert</a>.
+					I'm part of the team <a href="http://www.ens-lyon.fr/LIP/ROMA/"> ROMA</a> at the <a href="http://www.ens-lyon.fr/LIP/web-n/">LIP</a>.<br/>
+					I'm currently working on co-scheduling algorithms for large-scale applications.
+					I'm also working on scheduling and data management problems on the new many-core architectures.<br/>
+					My main interests are :
+					<ul>
+					  	<li>Parallel algorithms</li>
+						<li>Resilience & reliability at Exa-scale era</li>
+					  	<li>Scheduling problems in High Performance Computing</li>
+						<li>Many-core architectures</li>
+					</ul>
+
+					You can find more information on my <a href="cv/resume.pdf">CV</a> and on my <a href="https://scholar.google.fr/citations?user=hL9eZlQAAAAJ&hl=fr">Google Scholar</a> profile.<br/>
+					Don't hesitate to contact me at <span class="mail">loic [dot] pottier [at] ens-lyon [dot] fr</span> .
+				</p>
+			</article>
+
+			<section id="publications">
+				
+				<div id="publititle">
+				  <h2 class="alignleft">Publications</h2>
+				  <h4 class="alignright"> &#8213; authors are listed in alphabetical order</h4>
+				</div>
+				<div style="clear: both;"></div>
+
+				<article id="publications">
+
+					<h3>Book Chapters</h3>
+					<table>
+						<tr>
+							<td>
+								<a href="papers/Chapter2016_Big Data_Management_Architecture_and_Processing.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Guillaume Aupy, Anne Benoit, <span class="me">Loïc Pottier</span>, Padma Raghavan, Yves Robert, and Manu Shantharam. <strong>Co-scheduling high-performance computing applications</strong>. In: <em>Big Data Management and Processing.</em> Ed. by Kuan-Ching Li, Hai Jiang, and Albert Zomaya. Chapman and Hall/CRC Press, 2017. Chap. 5.
+							</td>
+						</tr>
+					</table>
+
+
+					<h3>Articles in International Refereed Journals</h3>
+					<table>
+						<tr>
+							<td>
+								<a href="papers/ijhpca2017cache.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Guillaume Aupy, Anne Benoit, Sicheng Dai, <span class="me">Loïc Pottier</span>, Padma Raghavan, Yves Robert, Manu Shantharam. <strong>Co-scheduling Amdahl applications on cache-partitioned systems</strong>. In: <em>International Journal of High Performance Computing Applications (IJHPCA)</em> (2017).
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="papers/ijhpca2017resilience.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Anne Benoit, <span class="me">Loïc Pottier</span>, Yves Robert. <strong>Resilient co-scheduling of malleable applications</strong>. In: <em>International Journal of High Performance Computing Applications (IJHPCA)</em> (2017).
+							</td>
+						</tr>
+					</table>
+
+					<h3>Articles in International Refereed Conferences</h3>
+					<table>
+						<tr>
+							<td>
+								<a href="papers/RR-9154.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Guillaume Aupy, Anne Benoit, Brice Goglin, <span class="me">Loïc Pottier</span>, Yves Robert. <strong>Co-scheduling HPC workloads on cache-partitioned CMP platforms</strong>. In: <em>IEEE International Conference on Cluster Computing, CLUSTER 2018.</em> Belfast, UK, September 10-13. IEEE. Sept. 2018.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="papers/RR-9165.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Anne Benoit, Swann Perarnau, <span class="me">Loïc Pottier</span>, Yves Robert. <strong>A performance model to execute workflows on high-bandwidth-memory architectures</strong>. In: <em>47th International Conference on Parallel Processing, ICPP 2018</em>, Eugene, USA, August 13-16.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="papers/icpp16.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Anne Benoit, <span class="me">Loïc Pottier</span>, Yves Robert. <strong>Resilient application co-scheduling with processor redistribution</strong>. In: <em>45th International Conference on Parallel Processing, ICPP 2016</em>, Philadelphia, USA, August 16-19.
+							</td>
+						</tr>
+					</table>
+					<h3>Articles in International Refereed Workshops</h3>
+					<table>
+						<tr>
+							<td>
+								<a href="papers/apdcm17.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Guillaume Aupy, Anne Benoit, <span class="me">Loïc Pottier</span>, Padma Raghavan, Yves Robert, Manu Shantharam. <strong>Co-scheduling algorithms for cache-partitioned systems</strong>. In: <em>19th Workshop on Advances in Parallel and Distributed Computational Models @ IPDPS, APDCM 2017</em>, Orlando, USA, May 29 – June 2.
+							</td>
+						</tr>
+					</table>
+
+					<h3>Research Reports</h3>
+					<table>
+						<tr>
+							<td>
+								<a href="papers/RR-9165.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Anne Benoit, Swann Perarnau, <span class="me">Loïc Pottier</span>, Yves Robert. <strong>A performance model to execute workflows on high-bandwidth-memory architectures</strong>. In: <em>INRIA research report 9165</em> (2018).
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="papers/RR-9154.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Guillaume Aupy, Anne Benoit, Brice Goglin, <span class="me">Loïc Pottier</span>, Yves Robert. <strong>Co-scheduling HPC workloads on cache-partitioned CMP platforms</strong>. In: <em>INRIA research report 9154</em> (2018).
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="papers/RR-9021.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Guillaume Aupy, Anne Benoit, Sicheng Dai, <span class="me">Loïc Pottier</span>, Padma Raghavan, Yves Robert, Manu Shantharam. <strong>Co-scheduling Amdahl applications on cache-partitioned systems</strong>. In: <em>INRIA research report 9021</em> (2017).
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="papers/RR-8965.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Guillaume Aupy, Anne Benoit, <span class="me">Loïc Pottier</span>, Padma Raghavan, Yves Robert, Manu Shantharam. <strong>Co-scheduling algorithms for cache-partitioned systems</strong>. In: <em>INRIA research report 8965</em> (2016).
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="papers/RR-8795.pdf"><img src="images/pdf.ico" width="24" height="24" alt="pdf"></a>
+							</td>
+							<td>
+								Anne Benoit, <span class="me">Loïc Pottier</span>, Yves Robert. <strong>Resilient application co-scheduling with processor redistribution</strong>. In: <em>INRIA research report 8795</em> (2015).
+							</td>
+						</tr>
+					</table>
+				</article>
+			</section>
+
+			<section id="teaching">
+				<h2>Teaching</h2>
+				<article id="teaching">
+					<h3>2017 &mdash; 2018</h3>
+					<ul>
+						<li>
+							<strong>Master (M1)</strong> <a class="cours-name" href="http://offre-de-formations.univ-lyon1.fr/front_fiche_ue.php?UE_ID=16786&PARCOURS_ID=345">Parallel systems</a>:
+							Lectures by <a href="http://perso.ens-lyon.fr/laurent.lefevre/">Laurent Lefevre</a>, tutorials with <a href="https://perso.ens-lyon.fr/issam.rais/">Issam Raïs</a>. University of Lyon, France.
+						</li>
+						<li>
+							<strong>Master (M1)</strong> <a class="cours-name" href="http://offre-de-formations.univ-lyon1.fr/front_fiche_ue.php?UE_ID=16776&PARCOURS_ID=345">Distributed algorithms</a> (only practical sessions):
+							Lectures by <a href="http://perso.ens-lyon.fr/isabelle.guerin-lassous/">Isabelle Guérin-Lassous</a>, tutorials with <a href="https://perso.ens-lyon.fr/issam.rais/">Issam Raïs</a>. University of Lyon, France.
+						</li>
+						<li>
+							<strong>Bachelor (L3)</strong> <a class="cours-name" href="http://www.ens-lyon.fr/DI/?p=73">PROJ1</a>:
+							Lectures by <a href="http://graal.ens-lyon.fr/~ecaron/">Eddy Caron</a>, tutorials with <a href="http://graal.ens-lyon.fr/~ecaron/">Eddy Caron</a> and <a href="https://perso.ens-lyon.fr/issam.rais/">Issam Raïs</a>. ENS de Lyon, France.
+						</li>
+					</ul>
+				</article>
+				<article id="teaching">
+					<h3>2016 &mdash; 2017</h3>
+					<ul>
+						<li>
+							<strong>Bachelor (L3)</strong> <a class="cours-name" href="http://www.ens-lyon.fr/DI/?p=97">ASR2</a>:
+							Lectures by Michaël Rao, tutorials with <a href="https://perso.ens-lyon.fr/fabrice.mouhartem/">Fabrice Mouhartem</a> and <a href="https://perso.ens-lyon.fr/valentin.lorentz/">Valentin Lorentz</a>. ENS de Lyon, France.
+						</li>
+						<li>
+							<strong>Bachelor (L3)</strong> <a class="cours-name" href="http://www.ens-lyon.fr/DI/?p=73">PROJ1</a>:
+							Lectures by <a href="http://graal.ens-lyon.fr/~ecaron/">Eddy Caron</a>, tutorials with <a href="http://graal.ens-lyon.fr/~ecaron/">Eddy Caron</a> and Guillaume Bouchard. ENS de Lyon, France.
+						</li>
+					</ul>
+				</article>
+				<article>
+					<h3>2015 &mdash; 2016</h3>
+					<ul>
+						<li>
+							<strong>Master (M1)</strong> <a class="cours-name" href="http://www.ens-lyon.fr/DI/?p=3934&lang=en">Computational Geometry</a>:
+							Lectures by <a href ="https://liris.cnrs.fr/david.coeurjolly/">David Coeurjolly</a>, tutorials available on <a href="https://github.com/dcoeurjo/lectureDG/">github</a>. ENS de Lyon, France.
+						</li>
+						<li>
+							<strong>Bachelor (L3)</strong> <a class="cours-name" href="http://www.ens-lyon.fr/DI/?p=61">ASR1</a>:
+							Lectures by <a href="http://graal.ens-lyon.fr/~ecaron/">Eddy Caron</a>, tutorials with <a href="http://graal.ens-lyon.fr/~vvillebo/">Violaine Villebonnet</a> and <a href="https://radu.carpa.me/">Radu Carpa</a>. ENS de Lyon, France.
+						</li>
+						<li>
+							<strong>Bachelor (L3) </strong> <a class="cours-name" href="http://graal.ens-lyon.fr/~abenoit/">ALGO2</a>: Lectures by <a href="http://graal.ens-lyon.fr/~abenoit/">Anne Benoit</a>, tutorials with <a href="http://kupriianova.info/">Olga Kupriianova</a>. ENS de Lyon, France.
+						</li>
+					</ul>
+				</article>
+			</section>
+
+
+<!--
+			<article id="misc">
+				<h2>Miscellaneous</h2>
+				<p>Paragraphe</p>
+			</article>
+-->
+		</section>
+
+		<footer>
+			<!-- <em id="mail_up">Mail: loic [dot] pottier [at] ens-lyon.fr </em> <br/> -->
+			<em>Last Update: </em> <em id="up"></em>
+		</footer>
+
+		<script type="text/javascript">
+			var x = new Date(document.lastModified);
+			document.getElementById("up").innerHTML = x;
+		</script>
+
+	</body>
+</html>
