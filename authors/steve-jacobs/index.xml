@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Jacobs | Loïc Pottier</title>
+    <link>https://lpottier.github.io/authors/steve-jacobs/</link>
+      <atom:link href="https://lpottier.github.io/authors/steve-jacobs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steve Jacobs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Steve Jacobs</title>
+      <link>https://lpottier.github.io/authors/steve-jacobs/</link>
+    </image>
+    
+    <item>
+      <title>Exploration of Workflow Management Systems Emerging Features from Users Perspectives</title>
+      <link>https://lpottier.github.io/publication/mitchell-2019-btsd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/mitchell-2019-btsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

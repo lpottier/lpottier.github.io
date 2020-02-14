@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Staarmann | Loïc Pottier</title>
+    <link>https://lpottier.github.io/authors/john-staarmann/</link>
+      <atom:link href="https://lpottier.github.io/authors/john-staarmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Staarmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>John Staarmann</title>
+      <link>https://lpottier.github.io/authors/john-staarmann/</link>
+    </image>
+    
+    <item>
+      <title>Cyberinfrastructure Center of Excellence Pilot: Connecting Large Facilities Cyberinfrastructure</title>
+      <link>https://lpottier.github.io/publication/deelman-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/deelman-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

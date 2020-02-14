@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Loïc Pottier</title>
+    <link>https://lpottier.github.io/publication_types/1/</link>
+      <atom:link href="https://lpottier.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://lpottier.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of In Situ and In Transit Analytics of Molecular Dynamics Simulations for Next-generation Supercomputers</title>
+      <link>https://lpottier.github.io/publication/thomas-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/thomas-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberinfrastructure Center of Excellence Pilot: Connecting Large Facilities Cyberinfrastructure</title>
+      <link>https://lpottier.github.io/publication/deelman-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/deelman-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of Workflow Management Systems Emerging Features from Users Perspectives</title>
+      <link>https://lpottier.github.io/publication/mitchell-2019-btsd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/mitchell-2019-btsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Performance Model to Execute Workflows on High-Bandwidth-Memory Architectures</title>
+      <link>https://lpottier.github.io/publication/icpp-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/icpp-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms</title>
+      <link>https://lpottier.github.io/publication/cluster-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/cluster-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Scheduling Algorithms for Cache-Partitioned Systems</title>
+      <link>https://lpottier.github.io/publication/apdcm-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/apdcm-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient Application Co-scheduling with Processor Redistribution</title>
+      <link>https://lpottier.github.io/publication/icpp-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/icpp-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

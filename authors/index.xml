@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Loïc Pottier</title>
+    <link>https://lpottier.github.io/authors/</link>
+      <atom:link href="https://lpottier.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://lpottier.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Anne Benoit</title>
+      <link>https://lpottier.github.io/authors/anne-benoit/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/anne-benoit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brice Goglin</title>
+      <link>https://lpottier.github.io/authors/brice-goglin/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/brice-goglin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillaume Aupy</title>
+      <link>https://lpottier.github.io/authors/guillaume-aupy/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/guillaume-aupy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loïc Pottier</title>
+      <link>https://lpottier.github.io/authors/loic-pottier/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/loic-pottier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yves Robert</title>
+      <link>https://lpottier.github.io/authors/yves-robert/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/yves-robert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anirban Mandal</title>
+      <link>https://lpottier.github.io/authors/anirban-mandal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/anirban-mandal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles F Vardeman II</title>
+      <link>https://lpottier.github.io/authors/charles-f-vardeman-ii/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/charles-f-vardeman-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Clark</title>
+      <link>https://lpottier.github.io/authors/chris-clark/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/chris-clark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine Laney</title>
+      <link>https://lpottier.github.io/authors/christine-laney/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/christine-laney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Allen</title>
+      <link>https://lpottier.github.io/authors/daniel-allen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/daniel-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Barlow</title>
+      <link>https://lpottier.github.io/authors/david-barlow/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/david-barlow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Hulsander</title>
+      <link>https://lpottier.github.io/authors/david-hulsander/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/david-hulsander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Scott</title>
+      <link>https://lpottier.github.io/authors/erik-scott/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/erik-scott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ewa Deelman</title>
+      <link>https://lpottier.github.io/authors/ewa-deelman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/ewa-deelman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harel Weinstein</title>
+      <link>https://lpottier.github.io/authors/harel-weinstein/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/harel-weinstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Baldin</title>
+      <link>https://lpottier.github.io/authors/ilya-baldin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/ilya-baldin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Lobo-Padilla</title>
+      <link>https://lpottier.github.io/authors/ivan-lobo-padilla/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/ivan-lobo-padilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane Wyngaard</title>
+      <link>https://lpottier.github.io/authors/jane-wyngaard/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/jane-wyngaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasmine A Mann</title>
+      <link>https://lpottier.github.io/authors/jasmine-a-mann/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/jasmine-a-mann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeremey Sampson</title>
+      <link>https://lpottier.github.io/authors/jeremey-sampson/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/jeremey-sampson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Staarmann</title>
+      <link>https://lpottier.github.io/authors/john-staarmann/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/john-staarmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karan Vahi</title>
+      <link>https://lpottier.github.io/authors/karan-vahi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/karan-vahi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Christopherson</title>
+      <link>https://lpottier.github.io/authors/laura-christopherson/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/laura-christopherson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leslie Goldman</title>
+      <link>https://lpottier.github.io/authors/leslie-goldman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/leslie-goldman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marina Kogank</title>
+      <link>https://lpottier.github.io/authors/marina-kogank/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/marina-kogank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mats Rynge</title>
+      <link>https://lpottier.github.io/authors/mats-rynge/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/mats-rynge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Wyatt</title>
+      <link>https://lpottier.github.io/authors/michael-wyatt/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/michael-wyatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michel A. Cuendet</title>
+      <link>https://lpottier.github.io/authors/michel-a.-cuendet/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/michel-a.-cuendet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michela Taufer</title>
+      <link>https://lpottier.github.io/authors/michela-taufer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/michela-taufer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phil Harvey</title>
+      <link>https://lpottier.github.io/authors/phil-harvey/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/phil-harvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Ferreira da Silva</title>
+      <link>https://lpottier.github.io/authors/rafael-ferreira-da-silva/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/rafael-ferreira-da-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan Mitchell</title>
+      <link>https://lpottier.github.io/authors/ryan-mitchell/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/ryan-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santiago Bonarrigo</title>
+      <link>https://lpottier.github.io/authors/santiago-bonarrigo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/santiago-bonarrigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Thomas</title>
+      <link>https://lpottier.github.io/authors/stephen-thomas/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/stephen-thomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Jacob</title>
+      <link>https://lpottier.github.io/authors/steve-jacob/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/steve-jacob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Jacobs</title>
+      <link>https://lpottier.github.io/authors/steve-jacobs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/steve-jacobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Petruzza</title>
+      <link>https://lpottier.github.io/authors/steve-petruzza/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/steve-petruzza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Stone</title>
+      <link>https://lpottier.github.io/authors/steve-stone/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/steve-stone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susan Sons</title>
+      <link>https://lpottier.github.io/authors/susan-sons/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/susan-sons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Gulbransen</title>
+      <link>https://lpottier.github.io/authors/tom-gulbransen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/tom-gulbransen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trilce Estrada</title>
+      <link>https://lpottier.github.io/authors/trilce-estrada/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/trilce-estrada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tristan Goulden</title>
+      <link>https://lpottier.github.io/authors/tristan-goulden/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/tristan-goulden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tu Mai Anh Do</title>
+      <link>https://lpottier.github.io/authors/tu-mai-anh-do/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/tu-mai-anh-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valerio Pascucci</title>
+      <link>https://lpottier.github.io/authors/valerio-pascucci/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/valerio-pascucci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manu Shantharam</title>
+      <link>https://lpottier.github.io/authors/manu-shantharam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/manu-shantharam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Padma Raghavan</title>
+      <link>https://lpottier.github.io/authors/padma-raghavan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/padma-raghavan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sicheng Dai</title>
+      <link>https://lpottier.github.io/authors/sicheng-dai/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/sicheng-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swann Perarnau</title>
+      <link>https://lpottier.github.io/authors/swann-perarnau/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/swann-perarnau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lpottier.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently Postdoctoral Scholar at the 
+&lt;a href=&#34;https://viterbischool.usc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Southern California&lt;/a&gt;
+ in Los Angeles. I&amp;rsquo;m part of the 
+&lt;a href=&#34;https://scitech.isi.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Automation Technologies&lt;/a&gt;
+ group led by 
+&lt;a href=&#34;https://deelman.isi.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Ewa Deelman&lt;/a&gt;
+ where I&amp;rsquo;m working on scientific workflows management on large-scale cyber-infrastructures.&lt;/p&gt;
+&lt;p&gt;I have defended my PhD in Computer Science at École Normale Supérieure (ENS Lyon), France, in 2018, under the supervision of 
+&lt;a href=&#34;http://graal.ens-lyon.fr/~abenoit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne Benoit&lt;/a&gt;
+
+and 
+&lt;a href=&#34;http://graal.ens-lyon.fr/~yrobert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yves Robert&lt;/a&gt;
+.
+I was part of the team 
+&lt;a href=&#34;http://www.ens-lyon.fr/LIP/ROMA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROMA&lt;/a&gt;
+ at the 
+&lt;a href=&#34;http://www.ens-lyon.fr/LIP/web-n/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIP&lt;/a&gt;
+.
+I was mainly working on co-scheduling algorithms for large-scale applications.
+I was also working on scheduling and data management problems on the new many-core architectures.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

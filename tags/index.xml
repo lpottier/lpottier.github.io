@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Loïc Pottier</title>
+    <link>https://lpottier.github.io/tags/</link>
+      <atom:link href="https://lpottier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 16:04:34 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>https://lpottier.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>cyberinfrastructure</title>
+      <link>https://lpottier.github.io/tags/cyberinfrastructure/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:34 -0800</pubDate>
+      <guid>https://lpottier.github.io/tags/cyberinfrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSF</title>
+      <link>https://lpottier.github.io/tags/nsf/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:34 -0800</pubDate>
+      <guid>https://lpottier.github.io/tags/nsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pilot</title>
+      <link>https://lpottier.github.io/tags/pilot/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:34 -0800</pubDate>
+      <guid>https://lpottier.github.io/tags/pilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doe</title>
+      <link>https://lpottier.github.io/tags/doe/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:30 -0800</pubDate>
+      <guid>https://lpottier.github.io/tags/doe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance monitoring</title>
+      <link>https://lpottier.github.io/tags/performance-monitoring/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:30 -0800</pubDate>
+      <guid>https://lpottier.github.io/tags/performance-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workflows</title>
+      <link>https://lpottier.github.io/tags/workflows/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:30 -0800</pubDate>
+      <guid>https://lpottier.github.io/tags/workflows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ensl</title>
+      <link>https://lpottier.github.io/tags/ensl/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/ensl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mine</title>
+      <link>https://lpottier.github.io/tags/mine/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/mine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>isi</title>
+      <link>https://lpottier.github.io/tags/isi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/isi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithme d&#39;ordonnancement</title>
+      <link>https://lpottier.github.io/tags/algorithme-dordonnancement/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/algorithme-dordonnancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antémémoire</title>
+      <link>https://lpottier.github.io/tags/antememoire/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/antememoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache memory</title>
+      <link>https://lpottier.github.io/tags/cache-memory/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/cache-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-scheduling algorithm</title>
+      <link>https://lpottier.github.io/tags/co-scheduling-algorithm/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/co-scheduling-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High performance computing</title>
+      <link>https://lpottier.github.io/tags/high-performance-computing/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/high-performance-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiérarchie mémoire</title>
+      <link>https://lpottier.github.io/tags/hierarchie-memoire/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/hierarchie-memoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPC</title>
+      <link>https://lpottier.github.io/tags/hpc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/hpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatique haute performance</title>
+      <link>https://lpottier.github.io/tags/informatique-haute-performance/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/informatique-haute-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many-core</title>
+      <link>https://lpottier.github.io/tags/many-core/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/many-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://lpottier.github.io/tags/memory/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory hierarchy</title>
+      <link>https://lpottier.github.io/tags/memory-hierarchy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/memory-hierarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordonnancement concurrent</title>
+      <link>https://lpottier.github.io/tags/ordonnancement-concurrent/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/ordonnancement-concurrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience</title>
+      <link>https://lpottier.github.io/tags/resilience/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>https://lpottier.github.io/tags/scheduling/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/tags/scheduling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

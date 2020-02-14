@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workflows | Loïc Pottier</title>
+    <link>https://lpottier.github.io/tags/workflows/</link>
+      <atom:link href="https://lpottier.github.io/tags/workflows/index.xml" rel="self" type="application/rss+xml" />
+    <description>workflows</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 16:04:30 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>workflows</title>
+      <link>https://lpottier.github.io/tags/workflows/</link>
+    </image>
+    
+    <item>
+      <title>Panorama360</title>
+      <link>https://lpottier.github.io/project/panorama360/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:30 -0800</pubDate>
+      <guid>https://lpottier.github.io/project/panorama360/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

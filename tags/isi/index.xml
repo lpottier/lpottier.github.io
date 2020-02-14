@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>isi | Loïc Pottier</title>
+    <link>https://lpottier.github.io/tags/isi/</link>
+      <atom:link href="https://lpottier.github.io/tags/isi/index.xml" rel="self" type="application/rss+xml" />
+    <description>isi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>isi</title>
+      <link>https://lpottier.github.io/tags/isi/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of In Situ and In Transit Analytics of Molecular Dynamics Simulations for Next-generation Supercomputers</title>
+      <link>https://lpottier.github.io/publication/thomas-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/thomas-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberinfrastructure Center of Excellence Pilot: Connecting Large Facilities Cyberinfrastructure</title>
+      <link>https://lpottier.github.io/publication/deelman-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/deelman-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of Workflow Management Systems Emerging Features from Users Perspectives</title>
+      <link>https://lpottier.github.io/publication/mitchell-2019-btsd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lpottier.github.io/publication/mitchell-2019-btsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

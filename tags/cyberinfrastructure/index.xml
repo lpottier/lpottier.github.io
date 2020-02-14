@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cyberinfrastructure | Loïc Pottier</title>
+    <link>https://lpottier.github.io/tags/cyberinfrastructure/</link>
+      <atom:link href="https://lpottier.github.io/tags/cyberinfrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <description>cyberinfrastructure</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 16:04:34 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>cyberinfrastructure</title>
+      <link>https://lpottier.github.io/tags/cyberinfrastructure/</link>
+    </image>
+    
+    <item>
+      <title>CI CoE Pilot</title>
+      <link>https://lpottier.github.io/project/cicoe-pilot/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:34 -0800</pubDate>
+      <guid>https://lpottier.github.io/project/cicoe-pilot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
