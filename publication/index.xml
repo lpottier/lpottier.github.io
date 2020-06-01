@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Loïc Pottier</title>
-    <link>https://lpottier.github.io/publication/</link>
-      <atom:link href="https://lpottier.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Loïc Pottier&#39;s homepage</title>
+    <link>https://loicpottier.com/publication/</link>
+      <atom:link href="https://loicpottier.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://lpottier.github.io/publication/</link>
+      <link>https://loicpottier.com/publication/</link>
     </image>
     
     <item>
       <title>Co-scheduling HPC workloads on cache-partitioned CMP platforms</title>
-      <link>https://lpottier.github.io/publication/ijhpca-2019-cmp/</link>
+      <link>https://loicpottier.com/publication/ijhpca-2019-cmp/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/ijhpca-2019-cmp/</guid>
+      <guid>https://loicpottier.com/publication/ijhpca-2019-cmp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of In Situ and In Transit Analytics of Molecular Dynamics Simulations for Next-generation Supercomputers</title>
-      <link>https://lpottier.github.io/publication/thomas-escience-2019/</link>
+      <link>https://loicpottier.com/publication/thomas-escience-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/thomas-escience-2019/</guid>
+      <guid>https://loicpottier.com/publication/thomas-escience-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyberinfrastructure Center of Excellence Pilot: Connecting Large Facilities Cyberinfrastructure</title>
-      <link>https://lpottier.github.io/publication/deelman-escience-2019/</link>
+      <link>https://loicpottier.com/publication/deelman-escience-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/deelman-escience-2019/</guid>
+      <guid>https://loicpottier.com/publication/deelman-escience-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of Workflow Management Systems Emerging Features from Users Perspectives</title>
-      <link>https://lpottier.github.io/publication/mitchell-2019-btsd/</link>
+      <link>https://loicpottier.com/publication/mitchell-2019-btsd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/mitchell-2019-btsd/</guid>
+      <guid>https://loicpottier.com/publication/mitchell-2019-btsd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-scheduling for large-scale applications: memory and resilience</title>
-      <link>https://lpottier.github.io/publication/pottier-2018/</link>
+      <link>https://loicpottier.com/publication/pottier-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/pottier-2018/</guid>
+      <guid>https://loicpottier.com/publication/pottier-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Performance Model to Execute Workflows on High-Bandwidth-Memory Architectures</title>
-      <link>https://lpottier.github.io/publication/icpp-2018/</link>
+      <link>https://loicpottier.com/publication/icpp-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/icpp-2018/</guid>
+      <guid>https://loicpottier.com/publication/icpp-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-scheduling Amdahl applications on cache-partitioned systems</title>
-      <link>https://lpottier.github.io/publication/ijhpca-2018-cache/</link>
+      <link>https://loicpottier.com/publication/ijhpca-2018-cache/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/ijhpca-2018-cache/</guid>
+      <guid>https://loicpottier.com/publication/ijhpca-2018-cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms</title>
-      <link>https://lpottier.github.io/publication/cluster-18/</link>
+      <link>https://loicpottier.com/publication/cluster-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/cluster-18/</guid>
+      <guid>https://loicpottier.com/publication/cluster-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resilient co-scheduling of malleable applications</title>
-      <link>https://lpottier.github.io/publication/ijhpca-2018-resilience/</link>
+      <link>https://loicpottier.com/publication/ijhpca-2018-resilience/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/ijhpca-2018-resilience/</guid>
+      <guid>https://loicpottier.com/publication/ijhpca-2018-resilience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-Scheduling Algorithms for Cache-Partitioned Systems</title>
-      <link>https://lpottier.github.io/publication/apdcm-2017/</link>
+      <link>https://loicpottier.com/publication/apdcm-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/apdcm-2017/</guid>
+      <guid>https://loicpottier.com/publication/apdcm-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-scheduling high-performance computing applications</title>
-      <link>https://lpottier.github.io/publication/chapter-2016-crc/</link>
+      <link>https://loicpottier.com/publication/chapter-2016-crc/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/chapter-2016-crc/</guid>
+      <guid>https://loicpottier.com/publication/chapter-2016-crc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resilient Application Co-scheduling with Processor Redistribution</title>
-      <link>https://lpottier.github.io/publication/icpp-2016/</link>
+      <link>https://loicpottier.com/publication/icpp-2016/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://lpottier.github.io/publication/icpp-2016/</guid>
+      <guid>https://loicpottier.com/publication/icpp-2016/</guid>
       <description></description>
     </item>
     

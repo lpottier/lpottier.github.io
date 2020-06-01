@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
 
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -21,7 +20,7 @@
   
   
 
-  <meta name="author" content="Loïc Pottier">
+  
 
   
   
@@ -31,7 +30,7 @@
   <meta name="description" content="Co-scheduling techniques are used to improve the throughput of applications on chip multiprocessors (CMP), but sharing resources often generates critical interferences. We focus on the interferences in the last level of cache (LLC) and use the Cache Allocation Technology (CAT) recently provided by Intel to partition the LLC and give each co-scheduled application their own cache area. We consider m iterative HPC applications running concurrently and answer the following questions: (i) how to precisely model the behavior of these applications on the cache partitioned platform? and (ii) how many cores and cache fractions should be assigned to each application to maximize the platform efficiency? Here, platform efficiency is defined as maximizing the performance either globally, or as guaranteeing a fixed ratio of iterations per second for each application. Through extensive experiments using CAT, we demonstrate the impact of cache partitioning when multiple HPC application are co-scheduled onto CMP platforms.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://lpottier.github.io/publication/cluster-18/">
+  <link rel="alternate" hreflang="en-us" href="https://loicpottier.com/publication/cluster-18/">
 
   
 
@@ -63,8 +62,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -210,13 +209,18 @@
 
 
   
+  
+
+  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://lpottier.github.io/publication/cluster-18/">
+  <link rel="canonical" href="https://loicpottier.com/publication/cluster-18/">
 
+  
+  
   
   
   
@@ -228,11 +232,11 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Loïc Pottier">
-  <meta property="og:url" content="https://lpottier.github.io/publication/cluster-18/">
-  <meta property="og:title" content="Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms | Loïc Pottier">
-  <meta property="og:description" content="Co-scheduling techniques are used to improve the throughput of applications on chip multiprocessors (CMP), but sharing resources often generates critical interferences. We focus on the interferences in the last level of cache (LLC) and use the Cache Allocation Technology (CAT) recently provided by Intel to partition the LLC and give each co-scheduled application their own cache area. We consider m iterative HPC applications running concurrently and answer the following questions: (i) how to precisely model the behavior of these applications on the cache partitioned platform? and (ii) how many cores and cache fractions should be assigned to each application to maximize the platform efficiency? Here, platform efficiency is defined as maximizing the performance either globally, or as guaranteeing a fixed ratio of iterations per second for each application. Through extensive experiments using CAT, we demonstrate the impact of cache partitioning when multiple HPC application are co-scheduled onto CMP platforms."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
-  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Loïc Pottier&#39;s homepage">
+  <meta property="og:url" content="https://loicpottier.com/publication/cluster-18/">
+  <meta property="og:title" content="Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms | Loïc Pottier&#39;s homepage">
+  <meta property="og:description" content="Co-scheduling techniques are used to improve the throughput of applications on chip multiprocessors (CMP), but sharing resources often generates critical interferences. We focus on the interferences in the last level of cache (LLC) and use the Cache Allocation Technology (CAT) recently provided by Intel to partition the LLC and give each co-scheduled application their own cache area. We consider m iterative HPC applications running concurrently and answer the following questions: (i) how to precisely model the behavior of these applications on the cache partitioned platform? and (ii) how many cores and cache fractions should be assigned to each application to maximize the platform efficiency? Here, platform efficiency is defined as maximizing the performance either globally, or as guaranteeing a fixed ratio of iterations per second for each application. Through extensive experiments using CAT, we demonstrate the impact of cache partitioning when multiple HPC application are co-scheduled onto CMP platforms."><meta property="og:image" content="https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-02-12T02:23:50&#43;00:00">
@@ -253,15 +257,13 @@
 
 
 
-
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://lpottier.github.io/publication/cluster-18/"
+    "@id": "https://loicpottier.com/publication/cluster-18/"
   },
   "headline": "Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms",
   
@@ -275,10 +277,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Loïc Pottier",
+    "name": "Loïc Pottier's homepage",
     "logo": {
       "@type": "ImageObject",
-      "url": "img/https://lpottier.github.io/static/img/usc-logo-light.jpg"
+      "url": "https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Co-scheduling techniques are used to improve the throughput of applications on chip multiprocessors (CMP), but sharing resources often generates critical interferences. We focus on the interferences in the last level of cache (LLC) and use the Cache Allocation Technology (CAT) recently provided by Intel to partition the LLC and give each co-scheduled application their own cache area. We consider m iterative HPC applications running concurrently and answer the following questions: (i) how to precisely model the behavior of these applications on the cache partitioned platform? and (ii) how many cores and cache fractions should be assigned to each application to maximize the platform efficiency? Here, platform efficiency is defined as maximizing the performance either globally, or as guaranteeing a fixed ratio of iterations per second for each application. Through extensive experiments using CAT, we demonstrate the impact of cache partitioning when multiple HPC application are co-scheduled onto CMP platforms."
@@ -299,7 +301,7 @@
 
 
 
-  <title>Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms | Loïc Pottier</title>
+  <title>Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms | Loïc Pottier&#39;s homepage</title>
 
 </head>
 
@@ -350,7 +352,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Loïc Pottier</a>
+      <a class="navbar-brand" href="/">Loïc Pottier&#39;s homepage</a>
     </div>
     
 
@@ -363,7 +365,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Loïc Pottier</a>
+      <a class="navbar-brand" href="/">Loïc Pottier&#39;s homepage</a>
     </div>
     
 
@@ -522,7 +524,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -574,11 +576,8 @@
   <div>
     
 
-
-
   
-  <span><a href="/authors/guillaume-aupy/">Guillaume Aupy</a></span>, <span><a href="/authors/anne-benoit/">Anne Benoit</a></span>, <span><a href="/authors/brice-goglin/">Brice Goglin</a></span>, <span>Loïc Pottier</span>, <span><a href="/authors/yves-robert/">Yves Robert</a></span>
-
+  <span>Guillaume Aupy</span>, <span>Anne Benoit</span>, <span>Brice Goglin</span>, <span>Loïc Pottier</span>, <span>Yves Robert</span>
   </div>
   
   
@@ -726,12 +725,13 @@
 
 
 
+
 <div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/mine/">mine</a>
   
   <a class="badge badge-light" href="/tags/ensl/">ensl</a>
   
+  <a class="badge badge-light" href="/tags/mine/">mine</a>
+  
 </div>
 
 
@@ -748,62 +748,72 @@
 
 
   
-  
     
-  
-  
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
     
 
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/guillaume-aupy/"></a></h5>
-      
-      
-      <ul class="network-icon" aria-hidden="true">
+
+
+
+
   
-</ul>
-
-    </div>
-  </div>
 
 
-
-
+  
+    
+    
 
 
 
 
 
   
+
+
   
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/ijhpca-2018-cache/">Co-scheduling Amdahl applications on cache-partitioned systems</a></li>
-      
-      <li><a href="/publication/ijhpca-2018-resilience/">Resilient co-scheduling of malleable applications</a></li>
-      
-      <li><a href="/publication/pottier-2018/">Co-scheduling for large-scale applications: memory and resilience</a></li>
-      
-      <li><a href="/publication/ijhpca-2019-cmp/">Co-scheduling HPC workloads on cache-partitioned CMP platforms</a></li>
-      
-      <li><a href="/publication/chapter-2016-crc/">Co-scheduling high-performance computing applications</a></li>
-      
-    </ul>
-  </div>
+    
+    
+
+
+
+
+
   
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -815,7 +825,7 @@
     
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
@@ -824,9 +834,9 @@
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
@@ -844,6 +854,11 @@
 
     
     
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
     
     
     
@@ -855,7 +870,8 @@
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks"
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -892,6 +908,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -904,7 +923,7 @@
     
     
     
-    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 
@@ -920,8 +939,18 @@
   
 
   <p class="powered-by">
-    All rights reserved © 2020 &middot; 
+    All rights reserved © 2020
+  </p>
 
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
