@@ -1,1 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1 | Loïc Pottier</title><link>https://loicpottier.com/publication_types/1/</link><atom:link href="https://loicpottier.com/publication_types/1/index.xml" rel="self" type="application/rss+xml"/><description>1</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>1</title><link>https://loicpottier.com/publication_types/1/</link></image><item><title>A Novel Metric to Evaluate In Situ Workflows</title><link>https://loicpottier.com/publication/do-2020-iccs/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/do-2020-iccs/</guid><description/></item><item><title>Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers</title><link>https://loicpottier.com/publication/pottier-2020-cluster/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/pottier-2020-cluster/</guid><description/></item><item><title>WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development</title><link>https://loicpottier.com/publication/ferreiradasilva-2020-works/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/ferreiradasilva-2020-works/</guid><description/></item><item><title>Characterization of In Situ and In Transit Analytics of Molecular Dynamics Simulations for Next-generation Supercomputers</title><link>https://loicpottier.com/publication/thomas-escience-2019/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/thomas-escience-2019/</guid><description/></item><item><title>Cyberinfrastructure Center of Excellence Pilot: Connecting Large Facilities Cyberinfrastructure</title><link>https://loicpottier.com/publication/deelman-escience-2019/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/deelman-escience-2019/</guid><description/></item><item><title>Exploration of Workflow Management Systems Emerging Features from Users Perspectives</title><link>https://loicpottier.com/publication/mitchell-2019-btsd/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/mitchell-2019-btsd/</guid><description/></item><item><title>A Performance Model to Execute Workflows on High-Bandwidth-Memory Architectures</title><link>https://loicpottier.com/publication/icpp-2018/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/icpp-2018/</guid><description/></item><item><title>Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms</title><link>https://loicpottier.com/publication/cluster-18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/cluster-18/</guid><description/></item><item><title>Co-Scheduling Algorithms for Cache-Partitioned Systems</title><link>https://loicpottier.com/publication/apdcm-2017/</link><pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/apdcm-2017/</guid><description/></item><item><title>Resilient Application Co-scheduling with Processor Redistribution</title><link>https://loicpottier.com/publication/icpp-2016/</link><pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/icpp-2016/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Loïc Pottier</title>
+    <link>https://loicpottier.com/publication_types/1/</link>
+      <atom:link href="https://loicpottier.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://loicpottier.com/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Metric to Evaluate In Situ Workflows</title>
+      <link>https://loicpottier.com/publication/do-2020-iccs/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/do-2020-iccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers</title>
+      <link>https://loicpottier.com/publication/pottier-2020-cluster/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/pottier-2020-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development</title>
+      <link>https://loicpottier.com/publication/ferreiradasilva-2020-works/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/ferreiradasilva-2020-works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of In Situ and In Transit Analytics of Molecular Dynamics Simulations for Next-generation Supercomputers</title>
+      <link>https://loicpottier.com/publication/thomas-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/thomas-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberinfrastructure Center of Excellence Pilot: Connecting Large Facilities Cyberinfrastructure</title>
+      <link>https://loicpottier.com/publication/deelman-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/deelman-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of Workflow Management Systems Emerging Features from Users Perspectives</title>
+      <link>https://loicpottier.com/publication/mitchell-2019-btsd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/mitchell-2019-btsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Performance Model to Execute Workflows on High-Bandwidth-Memory Architectures</title>
+      <link>https://loicpottier.com/publication/icpp-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/icpp-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms</title>
+      <link>https://loicpottier.com/publication/cluster-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/cluster-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Scheduling Algorithms for Cache-Partitioned Systems</title>
+      <link>https://loicpottier.com/publication/apdcm-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/apdcm-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient Application Co-scheduling with Processor Redistribution</title>
+      <link>https://loicpottier.com/publication/icpp-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/icpp-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stephen Thomas | Loïc Pottier</title><link>https://loicpottier.com/authors/stephen-thomas/</link><atom:link href="https://loicpottier.com/authors/stephen-thomas/index.xml" rel="self" type="application/rss+xml"/><description>Stephen Thomas</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Stephen Thomas</title><link>https://loicpottier.com/authors/stephen-thomas/</link></image><item><title>A Novel Metric to Evaluate In Situ Workflows</title><link>https://loicpottier.com/publication/do-2020-iccs/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/do-2020-iccs/</guid><description/></item><item><title>Characterization of In Situ and In Transit Analytics of Molecular Dynamics Simulations for Next-generation Supercomputers</title><link>https://loicpottier.com/publication/thomas-escience-2019/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/thomas-escience-2019/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Thomas | Loïc Pottier</title>
+    <link>https://loicpottier.com/authors/stephen-thomas/</link>
+      <atom:link href="https://loicpottier.com/authors/stephen-thomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Thomas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stephen Thomas</title>
+      <link>https://loicpottier.com/authors/stephen-thomas/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Metric to Evaluate In Situ Workflows</title>
+      <link>https://loicpottier.com/publication/do-2020-iccs/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/do-2020-iccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of In Situ and In Transit Analytics of Molecular Dynamics Simulations for Next-generation Supercomputers</title>
+      <link>https://loicpottier.com/publication/thomas-escience-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/thomas-escience-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 | Loïc Pottier</title><link>https://loicpottier.com/publication_types/2/</link><atom:link href="https://loicpottier.com/publication_types/2/index.xml" rel="self" type="application/rss+xml"/><description>2</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>2</title><link>https://loicpottier.com/publication_types/2/</link></image><item><title>A Lightweight Method for Evaluating In Situ Workflow Efficiency</title><link>https://loicpottier.com/publication/do-2020-jocs/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/do-2020-jocs/</guid><description/></item><item><title>Co-scheduling HPC workloads on cache-partitioned CMP platforms</title><link>https://loicpottier.com/publication/ijhpca-2019-cmp/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/ijhpca-2019-cmp/</guid><description/></item><item><title>Co-scheduling Amdahl applications on cache-partitioned systems</title><link>https://loicpottier.com/publication/ijhpca-2018-cache/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/ijhpca-2018-cache/</guid><description/></item><item><title>Resilient co-scheduling of malleable applications</title><link>https://loicpottier.com/publication/ijhpca-2018-resilience/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://loicpottier.com/publication/ijhpca-2018-resilience/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Loïc Pottier</title>
+    <link>https://loicpottier.com/publication_types/2/</link>
+      <atom:link href="https://loicpottier.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://loicpottier.com/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>A Lightweight Method for Evaluating In Situ Workflow Efficiency</title>
+      <link>https://loicpottier.com/publication/do-2020-jocs/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/do-2020-jocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-scheduling HPC workloads on cache-partitioned CMP platforms</title>
+      <link>https://loicpottier.com/publication/ijhpca-2019-cmp/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/ijhpca-2019-cmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-scheduling Amdahl applications on cache-partitioned systems</title>
+      <link>https://loicpottier.com/publication/ijhpca-2018-cache/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/ijhpca-2018-cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient co-scheduling of malleable applications</title>
+      <link>https://loicpottier.com/publication/ijhpca-2018-resilience/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://loicpottier.com/publication/ijhpca-2018-resilience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cyberinfrastructure | Loïc Pottier</title><link>https://loicpottier.com/tags/cyberinfrastructure/</link><atom:link href="https://loicpottier.com/tags/cyberinfrastructure/index.xml" rel="self" type="application/rss+xml"/><description>cyberinfrastructure</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Sat, 08 Feb 2020 16:04:34 -0800</lastBuildDate><image><url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>cyberinfrastructure</title><link>https://loicpottier.com/tags/cyberinfrastructure/</link></image><item><title>CI CoE Pilot</title><link>https://loicpottier.com/project/cicoe-pilot/</link><pubDate>Sat, 08 Feb 2020 16:04:34 -0800</pubDate><guid>https://loicpottier.com/project/cicoe-pilot/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cyberinfrastructure | Loïc Pottier</title>
+    <link>https://loicpottier.com/tags/cyberinfrastructure/</link>
+      <atom:link href="https://loicpottier.com/tags/cyberinfrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <description>cyberinfrastructure</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © 2021</copyright><lastBuildDate>Sat, 08 Feb 2020 16:04:34 -0800</lastBuildDate>
+    <image>
+      <url>https://loicpottier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>cyberinfrastructure</title>
+      <link>https://loicpottier.com/tags/cyberinfrastructure/</link>
+    </image>
+    
+    <item>
+      <title>CI CoE Pilot</title>
+      <link>https://loicpottier.com/project/cicoe-pilot/</link>
+      <pubDate>Sat, 08 Feb 2020 16:04:34 -0800</pubDate>
+      <guid>https://loicpottier.com/project/cicoe-pilot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
