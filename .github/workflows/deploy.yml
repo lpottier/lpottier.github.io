@@ -31,8 +31,8 @@ jobs:
           hugo --minify
 
     - name: Create CNAME and robots files
-      run: echo 'loicpottier.com' > public/CNAME
       run: |
+          echo 'loicpottier.com' > public/CNAME
           echo 'User-agent: *' > public/robots.txt
           echo '' >> public/robots.txt
           echo 'Disallow: /static/' >> public/robots.txt
