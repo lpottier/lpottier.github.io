@@ -1,0 +1,28 @@
+# Theme metadata
+name = "usc"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#990000"
+primary_light = "#990000"
+primary_dark = "#FECB00"
+
+# Links
+link = "#990000"
+link_hover = "#FECB00"
+# Menu
+menu_primary = "#990000"
+menu_text = "#fff"
+menu_text_active = "#FECB00"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+# rouge usc "rgb(153,0,0)" #990000
+# or usc "rgb(254,203,0)"  #FECB00
+
+# or usc "rgb(39,41,53)"  #FECB00
