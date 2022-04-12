@@ -30,9 +30,9 @@ jobs:
           hugo mod get -u
           hugo --minify
 
-    #echo 'loicpottier.com' > public/CNAME
     - name: Create CNAME and robots files
       run: |
+          echo 'loicpottier.com' > public/CNAME
           echo 'User-agent: *' > public/robots.txt
           echo '' >> public/robots.txt
           echo 'Disallow: /static/' >> public/robots.txt
