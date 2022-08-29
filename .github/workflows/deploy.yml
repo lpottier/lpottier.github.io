@@ -25,6 +25,8 @@ jobs:
     - name: Install deps
       run: |
         npm install -g mermaid.cli
+        gem update --system
+        bundle update --bundler
 
     - name: Deploy website
       uses: helaili/jekyll-action@v2
