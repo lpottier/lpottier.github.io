@@ -1,46 +1,34 @@
 # Name of Workflow
-name: github pages
+name: deploy
 
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-
-    - name: Checkout
-      uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v3
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
       with:
-          submodules: true  # Fetch Hugo themes
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-          hugo-version: '0.96.0'
-
-    - name: Clean public directory
-      run: rm -rf public
-
-    - name: Build
+        ruby-version: '3.0.2'
+        bundler-cache: true
+    - name: Install deps
       run: |
-          hugo mod get -u
-          hugo --minify
+        apt install imagemagick
+        npm install -g mermaid.cli
 
-    - name: Create CNAME and robots files
-      run: |
-          echo 'loicpottier.com' > public/CNAME
-          echo 'User-agent: *' > public/robots.txt
-          echo '' >> public/robots.txt
-          echo 'Disallow: /static/' >> public/robots.txt
-          echo 'Disallow: /data/' >> public/robots.txt
-          echo 'Disallow: /content/' >> public/robots.txt
-
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Deploy website
+    - uses: helaili/jekyll-action@v2
       with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'gh-pages'

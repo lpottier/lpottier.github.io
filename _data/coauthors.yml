@@ -1,0 +1,31 @@
+"Ferreira da Silva":
+  - firstname: ["R.", "Rafael", "Rafael Silva"]
+    url: https://rafaelsilva.com/
+
+"Robert":
+  - firstname: ["Y.", "Yves"]
+    url: http://graal.ens-lyon.fr/~yrobert/
+
+"Benoit":
+  - firstname: ["A.", "Anne"]
+    url: http://graal.ens-lyon.fr/~abenoit/
+
+"Casanova": 
+  - firstname: ["H.", "Henri"]
+    url: https://henricasanova.github.io/
+
+"Aupy":
+  - firstname: ["G.", "Guillaume"]
+    url: https://people.bordeaux.inria.fr/gaupy/#Contact
+
+"Perarnau":
+  - firstname: ["S.", "Swann"]
+    url: https://www.mcs.anl.gov/~perarnau/
+
+"Do":
+  - firstname: ["TMA.", "Tu Mai Anh"]
+    url: https://tumaianhdo.github.io/
+
+"Deelman":
+  - firstname: ["E.", "Ewa"]
+    url: https://deelman.isi.edu/

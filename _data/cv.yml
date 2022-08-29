@@ -1,0 +1,88 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Loïc Pottier
+    - name: Languages
+      value: French, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: École Normale Supérieure, Lyon, France
+      year: 2018
+      description:
+        - "Advisors: Anne Benoit and Yves Robert"
+        - "Title: Co-scheduling for large-scale applications: memory and resilience"
+    - title: Master
+      institution: University of Versailles, Versailles, France
+      year: 2015
+      description:
+        - "Advisor: Nahid Emad"
+        - Specialized in High-Performance Computing (see in French https://chps.uvsq.fr/)
+    - title: Bachelor
+      institution: University of Caen, Caen, France
+      year: 2013
+      description:
+        - Major in Computer Science.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Computer Scientist
+      institution: Information Sciences Institute, University of Southern California, USA
+      year: 2020 - 2022
+      description:
+
+    - title: Postdoctoral Scholar
+      institution: Information Sciences Institute, University of Southern California, USA
+      year: 2019 - 2020
+      description:
+
+    - title: PhD student
+      institution: École Normale Supérieure, Lyon, France
+      year: 2015 - 2018
+      description:
+        # During my PhD at the ENS, I taught as a TA in the following classes:
+
+        # 2017 – 2018:
+        #     Master (M1): Parallel systems, 32h, with Laurent Lefevre_, University of Lyon, France
+        #     Master (M1): Distributed algorithms, 20h, with Isabelle Guérin-Lassous, University of Lyon, France
+        #     Bachelor (L3): Introduction to programming, 32h, with Eddy Caron, ENS de Lyon, France.
+        # 2016 – 2017:
+        #     Bachelor (L3): Systems and network, level 2, 32h, with Michaël Rao, ENS de Lyon, France.
+        #     Bachelor (L3): Introduction to programming, 32h, with Eddy Caron, ENS de Lyon, France.
+        # 2015 – 2016:
+        #     Master (M1): Computational Geometry, 32h, with David Coeurjolly, ENS de Lyon, France.
+        #     Bachelor (L3): Systems and network, level 1, 32h, with Eddy Caron, ENS de Lyon, France.
+        #     Bachelor (L3): Algorithms and data structures, level 2, 32h, with Anne Benoit, ENS de Lyon, France.
+
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/wrench/wrench">WRENCH</a>
+#       year: 2020-now
+#       description: WRENCH is an open-source library for developing cyber-infrastructure simulators.
+
+- title: Fundings
+  type: time_table
+  contents:
+    - year: 2021
+      items: 
+        - NSF CRII (Early Career) Award 
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Resource Management for Distributed Systems
+      items:
+        - Scheduling problems in HPC and distributed computing
+        - Resilience & reliability at Exascale
+        - Scientific workflows management
+        - Distributed Machine Learning on HPC systems
+    # - title: Topic 2.
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
