@@ -1,5 +1,4 @@
 User-agent: *
+Disallow:
 
-Disallow: /static/
-Disallow: /data/
-Disallow: /content/
+Sitemap: https://loicpottier.com/sitemap.xml
