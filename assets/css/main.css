@@ -1,6 +1,6 @@
 /******************************************************************************* Variables used throughout the theme. To adjust anything, simply edit the variables below and rebuild the theme. */
 /******************************************************************************* Themes */
-:root { --global-bg-color: #FFFFF1; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #5C5C59; --global-text-color-light: #828282; --global-theme-color: #00369f; --global-hover-color: #00369f; --global-footer-bg-color: #FFFFF1; --global-footer-text-color: #5C5C59; --global-footer-link-color: #5C5C59; --global-distill-app-color: #5C5C59; --global-divider-color: rgba(0,0,0,.25); --global-card-bg-color: #FFFFF1; }
+:root { --global-bg-color: #FFFFF1; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #242424; --global-text-color-light: #828282; --global-theme-color: #0076df; --global-hover-color: #0076df; --global-footer-bg-color: #FFFFF1; --global-footer-text-color: #242424; --global-footer-link-color: #242424; --global-distill-app-color: #242424; --global-divider-color: rgba(0,0,0,.25); --global-card-bg-color: #FFFFF1; }
 
 :root .fa-sun { display: none; }
 
@@ -10,7 +10,7 @@
 
 :root .repo-img-dark { display: none; }
 
-html[data-theme='dark'] { --global-bg-color: #5C5C59; --global-code-bg-color: #2c3237; --global-text-color: #e8e8e8; --global-text-color-light: #e8e8e8; --global-theme-color: #2698BA; --global-hover-color: #2698BA; --global-footer-bg-color: #5C5C59; --global-footer-text-color: #FFFFF1; --global-footer-link-color: #FFFFF1; --global-distill-app-color: #e8e8e8; --global-divider-color: #FFFFF1; --global-card-bg-color: #5C5C59; }
+html[data-theme='dark'] { --global-bg-color: #242424; --global-code-bg-color: #2c3237; --global-text-color: #e8e8e8; --global-text-color-light: #e8e8e8; --global-theme-color: #397cff; --global-hover-color: #397cff; --global-footer-bg-color: #242424; --global-footer-text-color: #FFFFF1; --global-footer-link-color: #FFFFF1; --global-distill-app-color: #e8e8e8; --global-divider-color: #FFFFF1; --global-card-bg-color: #242424; }
 
 html[data-theme='dark'] .fa-sun { padding-left: 10px; padding-top: 12px; display: block; }
 
@@ -188,7 +188,7 @@ footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); paddin
 
 .pagination .page-item .page-link { color: var(--global-text-color); }
 
-.pagination .page-item .page-link:hover { color: #5C5C59; }
+.pagination .page-item .page-link:hover { color: #242424; }
 
 .pagination .page-item.active .page-link { color: #FFFFF1; background-color: var(--global-theme-color); }
 
