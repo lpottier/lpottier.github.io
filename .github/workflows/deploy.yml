@@ -17,19 +17,15 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
+    - uses: actions/cache@v2
       with:
-        ruby-version: '3.1.2'
-        bundler-cache: true
-    - name: Install deps
-      run: |
-        npm install -g mermaid.cli
-        gem update --system
-        bundle update --bundler
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
 
     - name: Deploy website
-      uses: helaili/jekyll-action@v2
+      uses: helaili/jekyll-action@v2.4.0
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
